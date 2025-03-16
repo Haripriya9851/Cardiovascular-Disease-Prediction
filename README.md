@@ -22,3 +22,9 @@ Our analysis explored four key hypotheses related to cardiovascular disease: the
 **Decision-Tree modeling:**  To understand non-linear patterns tree based Randomforest and XGBoost model were fit.
 
 **Feature Selection:** The PCA was employed to assess feature importance and select the most relevant predictors of CVD risk.
+
+Reference
+
+• Centers for Disease Control and Prevention. (2023). Heart disease facts and statistics. U.S. Department of Health & Human Services. (https://www.cdc.gov/heart-disease/data- research/facts-stats/index.html)
+
+• Pytlak, K. (2023). Personal key indicators of heart disease [Data set]. Kaggle. (https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
