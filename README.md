@@ -9,6 +9,7 @@ Heart disease remains the leading cause of death in the United States, with appr
 The analysis was done in several steps leveraging R Programming:
 
 **Exploratory Data Analysis (EDA):** This phase involved handling data integration potential data issues, along with plotting visualization graphs to derive insights and business questions for the relationships between the demographic,behavioral factors and the target variable.
+
 **Hypothesis Testing:**
 Our analysis explored four key hypotheses related to cardiovascular disease: the impact of Age, BMI, smoking/alcohol consumption, and diabetes on heart disease occurrence. 
 - The results strongly support the hypothesis that older individuals are more likely to experience cardiovascular events, as the median age of those with heart disease is significantly higher.
